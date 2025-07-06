@@ -1,3 +1,4 @@
 ## Task Objective:
 Modification in main branch.
-This is the description of my repo
+Modification in feature-greeting branch.
+This task is about branching, merging, and resolving merge conflicts.
